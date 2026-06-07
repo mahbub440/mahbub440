@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🌙 ALLAH IS THE GREATEST ♥
+### ALLAH IS THE GREATEST ♥
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahbub440&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mahbub440)
 [![GitHub followers](https://img.shields.io/github/followers/mahbub440?label=Followers&style=social)](https://github.com/mahbub440)
