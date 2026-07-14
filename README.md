@@ -1,124 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0a2e,100:000000&height=180&section=header&text=MAHBUBUR%20RAHMAN%20SAYEM&fontSize=32&fontColor=00d4ff&animation=blinking&fontAlignY=55&desc=〔%20CSE%20Student%20·%20Developer%20·%20Problem%20Solver%20〕&descAlignY=75&descColor=ffffff&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:03045e,50:0077b6,100:00b4d8&height=220&section=header&text=Mahbubur%20Rahman%20Sayem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20·%20Developer%20·%20Problem%20Solver&descAlignY=62&descColor=caf0f8" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=%3E+Turning+coffee+into+code+since+2024+%E2%98%95;%3E+CSE+Student+%40+Leading+University%2C+Sylhet;%3E+Building+projects+with+C%2B%2B+%7C+Python+%7C+Java;%3E+ALLAH+IS+THE+GREATEST+%E2%99%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=21&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Mahbub+—+welcome+to+my+profile;CSE+Student+at+Leading+University%2C+Sylhet;C+%2F+C%2B%2B+%2F+Python+%2F+Java+Developer;ALLAH+IS+THE+GREATEST+%E2%99%A5;Building+something+meaningful+every+day" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahbub440&style=for-the-badge&color=0a0a2e&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/mahbub440?style=for-the-badge&color=00d4ff&labelColor=0a0a2e&label=FOLLOWERS)](https://github.com/mahbub440)
+![Profile Views](https://komarev.com/ghpvc/?username=mahbub440&style=flat-square&color=0077b6&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/mahbub440?style=flat-square&color=0077b6&label=Followers)](https://github.com/mahbub440)
 
 </div>
 
+<br/>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### About Me
 
-## ⚡ `whoami`
-
-```bash
-┌──(mahbub440㉿github)-[~]
-└─$ cat about.txt
-
-  Name     : Mahbubur Rahman Sayem
-  Alias    : Mahbub
-  Role     : CSE Student & Aspiring Developer
-  Uni      : Leading University, Sylhet 🎓
-  Location : Bangladesh 🇧🇩
-  Email    : sayemmahbub7@gmail.com
-  Faith    : ALLAH IS THE GREATEST ♥
-  Goal     : Become a skilled Software Engineer 🚀
-  Status   : Open to learning & collaborating
+```yaml
+Name       : Mahbubur Rahman Sayem
+University : Leading University, Sylhet — CSE (3rd Year)
+Location   : Sylhet, Bangladesh
+Email      : sayemmahbub7@gmail.com
+Focus      : Software Development · Problem Solving · Clean Code
+Belief     : ALLAH IS THE GREATEST ♥
 ```
 
-```bash
-┌──(mahbub440㉿github)-[~]
-└─$ cat skills.json
-
-{
-  "languages"  : ["C", "C++", "Python", "Java"],
-  "tools"      : ["Git", "GitHub", "NetBeans", "XAMPP"],
-  "database"   : ["MySQL"],
-  "currently"  : ["DSA", "OOP", "Problem Solving"],
-  "learning"   : ["Web Dev", "Flutter", "Open Source"]
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## 🛠️ Tech Arsenal
+### Tech Stack
 
 <div align="center">
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Tools & IDEs**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahbub440&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub440&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahbub440&theme=ads-dark&hide_border=true&background=0d0d0d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahbub440&theme=darkhub&no-frame=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahbub440&bg_color=0d0d0d&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![C](https://img.shields.io/badge/C-0077b6?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0096c7?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00b4d8?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-48cae4?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0077b6?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0096c7?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00b4d8?style=flat-square&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-48cae4?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-0077b6?style=flat-square&logo=xampp&logoColor=white)
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+### Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|:--------|:-----:|:------------|
+| [CricBase](https://github.com/mahbub440/CricBase) | `Java` `OOP` | Console-based Cricket Management System |
+| [CodeSprint](https://github.com/mahbub440/CodeSprint) | `C/C++` | Games & Algorithm Projects |
+
+</div>
+
+---
+
+### Currently
+
+- Working on improving DSA skills daily
+- Exploring Java + MySQL integration
+- Open to collaborating on beginner-friendly projects
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahbub440&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub440&layout=compact&langs_count=6&theme=algolia&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahbub440&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahbub440&theme=react-dark&hide_border=true&color=00b4d8&line=0096c7&point=caf0f8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahbub440&theme=algolia&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### Contribution Snake
 
 <div align="center">
 
@@ -130,37 +115,25 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## 🎯 Current Focus
+### Connect
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 👯 Want To | ⚡ Fun Fact |
-|:---:|:---:|:---:|:---:|
-| Personal Projects | DSA & Algorithms | Contribute to OSS | I debug at 2AM 🌙 |
+[![Gmail](https://img.shields.io/badge/Gmail-0077b6?style=flat-square&logo=gmail&logoColor=white)](mailto:sayemmahbub7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0096c7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubur-rahman-sayem-862aa332a)
+[![GitHub](https://img.shields.io/badge/GitHub-00b4d8?style=flat-square&logo=github&logoColor=white)](https://github.com/mahbub440)
+[![Facebook](https://img.shields.io/badge/Facebook-48cae4?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/TheSayemMahbub/)
+[![Instagram](https://img.shields.io/badge/Instagram-0077b6?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mahbub_sayem7/)
+[![YouTube](https://img.shields.io/badge/YouTube-0096c7?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@zeroinfluencerBD)
 
 </div>
 
----
-
-## 📬 Let's Connect
+<br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayemmahbub7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubur-rahman-sayem-862aa332a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbub440)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TheSayemMahbub/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahbub_sayem7/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zeroinfluencerBD)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0a2e,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,50:0077b6,100:03045e&height=120&section=footer&fontColor=caf0f8&fontSize=14"/>
 
 </div>
