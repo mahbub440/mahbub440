@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:03045e,50:0077b6,100:00b4d8&height=220&section=header&text=Mahbubur%20Rahman%20Sayem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20·%20Developer%20·%20Problem%20Solver&descAlignY=62&descColor=caf0f8" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=21&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Mahbub+—+welcome+to+my+profile;CSE+Student+at+Leading+University%2C+Sylhet;C+%2F+C%2B%2B+%2F+Python+%2F+Java+Developer;ALLAH+IS+THE+GREATEST+%E2%99%A5;Building+something+meaningful+every+day" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:03045e,50:0077b6,100:00b4d8&height=220&section=header&text=Mahbubur%20Rahman%20Sayem&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descColor=caf0f8" />
 
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=21&pause=1000&color=0077B6&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Mahbub+%E2%80%94+welcome+to+my+profile!;CSE+Student+at+Leading+University%2C+Sylhet;C+%2F+C%2B%2B+%2F+Python+%2F+Java+Developer;ALLAH+IS+THE+GREATEST+%E2%99%A5;Building+something+meaningful+every+day." alt="Typing SVG" />
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahbub440&style=flat-square&color=0077b6&label=Profile+Views)
 &nbsp;
@@ -134,6 +134,6 @@ Belief     : ALLAH IS THE GREATEST ♥
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,50:0077b6,100:03045e&height=120&section=footer&fontColor=caf0f8&fontSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,50:0077b6,100:03045e&height=120&section=footer"/>
 
 </div>
