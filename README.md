@@ -1,44 +1,32 @@
+### 📈 Contribution Graph
 <div align="center">
-
-  <!-- Top Waving Animated Header -->
-  <a href="https://mahbubsayem.netlify.app/">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,75:16213e,100:0077b6&height=220&section=header&text=Mahbubur%20Rahman%20Sayem&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descColor=caf0f8" alt="Mahbubur Rahman Sayem Header" />
-  </a>
-
-  <!-- Animated Typing SVG -->
-  <a href="https://github.com/mahbub440">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hi+there%2C+I'm+Mahbub+👋;CSE+Undergraduate+%40+Leading+University%2C+Sylhet;C+%2F+C%2B%2B+%2F+Python+%2F+Java+%2F+Dart+Developer;Flutter+Mobile+App+Developer;ALLAH+IS+THE+GREATEST+♥;Building+impactful+software+daily+🚀" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Faith & Status Banner -->
-  <h3>✨ <i>ALLAH IS THE GREATEST ♥</i> ✨</h3>
-
-  <!-- Profile Metrics Row -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mahbub440&style=flat-square&color=0077b6&label=Profile+Views" alt="Profile Views" />
-    &nbsp;
-    <a href="https://github.com/mahbub440?tab=followers"><img src="https://img.shields.io/github/followers/mahbub440?style=flat-square&color=0096c7&label=Followers" alt="Followers" /></a>
-    &nbsp;
-    <a href="https://github.com/mahbub440?tab=repositories"><img src="https://img.shields.io/github/stars/mahbub440?style=flat-square&color=00b4d8&label=Stars" alt="Stars" /></a>
-  </p>
-
+<a href="https://github.com/mahbub440">
+  <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=mahbub440&theme=tokyo-night&hide_border=true&area=true" alt="Mahbub's Activity Graph" />
+</a>
 </div>
-
 ---
-
-### 👨‍💻 About Me
-
-```python
-developer = {
-    "name"        : "Mahbubur Rahman Sayem",
-    "role"        : "3rd Year CSE Undergraduate",
-    "university"  : "Leading University, Sylhet",
-    "location"    : "Sylhet, Bangladesh 🇧🇩",
-    "email"       : "sayemmahbub7@gmail.com",
-    "portfolio"   : "https://mahbubsayem.netlify.app",
-    "skills"      : ["C/C++", "Java", "Python", "Dart", "Flutter", "OOP", "DSA"],
-    "focus"       : ["Software Development", "Problem Solving", "Clean Architecture"],
-    "motto"       : "Consistency beats talent every single day!"
-}
+### 🐍 Contribution Snake Eater
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahbub440/mahbub440/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahbub440/mahbub440/output/github-snake.svg" />
+    <img width="100%" alt="Mahbub's Contribution Snake" src="https://raw.githubusercontent.com/mahbub440/mahbub440/output/github-snake.svg" />
+  </picture>
+</div>
+---
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://mahbubsayem.netlify.app/"><img src="https://img.shields.io/badge/Website-Portfolio-0077b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahbubsayem.netlify.app/"><img src="https://img.shields.io/badge/Website-Portfolio-0077B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mahbubur-rahman-sayem/"><img src="https://img.shields.io/badge/LinkedIn-Mahbubur_Sayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/mahbub_sayem7/"><img src="https://img.shields.io/badge/Instagram-mahbub__sayem7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+<!-- Bottom Waving Animated Footer -->
+<div align="center">
+  <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,40:0077b6,80:00b4d8,100:90e0ef&height=100&section=footer" alt="Footer Wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,40:16213e,75:1a1a2e,100:0d1117&height=120&section=footer" alt="Footer Wave" />
+  <p><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+</div>
