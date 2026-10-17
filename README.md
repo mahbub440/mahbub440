@@ -13,7 +13,7 @@
   <br/>
 
   <!-- Faith & Status Banner -->
-  <h3>✨ <i>ALLAH IS THE GREATEST ♥</i> ✨</h3>
+  <h3><i>ALLAH IS THE GREATEST ♥</i></h3>
 
   <!-- Profile Metrics Row -->
   <p align="center">
